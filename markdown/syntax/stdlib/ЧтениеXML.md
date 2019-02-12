@@ -1,97 +1,97 @@
 
-#ЧтениеXML / XMLReader
+# ЧтениеXML / XMLReader
 
-##Свойства
+## Свойства
     
-###URIПространстваИмен / NamespaceURI
+### URIПространстваИмен / NamespaceURI
 Доступ: Чтение
-###Автономный / Standalone
+### Автономный / Standalone
 Доступ: Чтение
-###БазовыйURI / BaseURI
+### БазовыйURI / BaseURI
 Доступ: Чтение
-###ВерсияXML / XMLVersion
+### ВерсияXML / XMLVersion
 Доступ: Чтение
-###Значение / Value
+### Значение / Value
 Доступ: Чтение
-###ИмеетЗначение / HasValue
+### ИмеетЗначение / HasValue
 Доступ: Чтение
-###ИмеетИмя / HasName
+### ИмеетИмя / HasName
 Доступ: Чтение
-###Имя / Name
+### Имя / Name
 Доступ: Чтение
-###ИмяНотации / NotationName
+### ИмяНотации / NotationName
 Доступ: Чтение
-###КодировкаXML / XMLEncoding
+### КодировкаXML / XMLEncoding
 Доступ: Чтение
-###КодировкаИсточника / InputEncoding
+### КодировкаИсточника / InputEncoding
 Доступ: Чтение
-###КонтекстПространствИмен / NamespaceContext
+### КонтекстПространствИмен / NamespaceContext
 Доступ: Чтение
-###ЛокальноеИмя / LocalName
+### ЛокальноеИмя / LocalName
 Доступ: Чтение
-###Префикс / Prefix
+### Префикс / Prefix
 Доступ: Чтение
-###ПубличныйИдентификатор / PublicId
+### ПубличныйИдентификатор / PublicId
 Доступ: Чтение
-###СистемныйИдентификатор / SystemId
+### СистемныйИдентификатор / SystemId
 Доступ: Чтение
-###ТипУзла / NodeType
+### ТипУзла / NodeType
 Доступ: Чтение
-###ЭтоАтрибутПоУмолчанию / IsDefaultAttribute
+### ЭтоАтрибутПоУмолчанию / IsDefaultAttribute
 Доступ: Чтение
-###ЭтоПробельныеСимволы / IsWhitespace
+### ЭтоПробельныеСимволы / IsWhitespace
 Доступ: Чтение
-###Язык / Lang
+### Язык / Lang
 Доступ: Чтение
-###ИгнорироватьПробелы / IgnoreWhitespace
+### ИгнорироватьПробелы / IgnoreWhitespace
 Доступ: Чтение/Запись
-###Параметры / Settings
+### Параметры / Settings
 Доступ: Чтение
-###ПробельныеСимволы / Space
+### ПробельныеСимволы / Space
 Доступ: Чтение
-###ЭтоСимвольныеДанные / IsCharacters
+### ЭтоСимвольныеДанные / IsCharacters
 Доступ: Чтение
-##Методы
+## Методы
     
-###ОткрытьФайл / OpenFile()
+### ОткрытьФайл / OpenFile()
     
-###УстановитьСтроку / SetString()
+### УстановитьСтроку / SetString()
     
-###URIПространстваИменАтрибута / AttributeNamespaceURI()
+### URIПространстваИменАтрибута / AttributeNamespaceURI()
     
-###ЗначениеАтрибута / AttributeValue()
+### ЗначениеАтрибута / AttributeValue()
     
-###ИмяАтрибута / AttributeName()
+### ИмяАтрибута / AttributeName()
     
-###КоличествоАтрибутов / AttributeCount()
+### КоличествоАтрибутов / AttributeCount()
     
-###ЛокальноеИмяАтрибута / AttributeLocalName()
+### ЛокальноеИмяАтрибута / AttributeLocalName()
     
-###ПервоеОбъявление / FirstDeclaration()
+### ПервоеОбъявление / FirstDeclaration()
     
-###ПервыйАтрибут / FirstAttribute()
+### ПервыйАтрибут / FirstAttribute()
     
-###ПолучитьАтрибут / GetAttribute()
+### ПолучитьАтрибут / GetAttribute()
     
-###ПрефиксАтрибута / AttributePrefix()
+### ПрефиксАтрибута / AttributePrefix()
     
-###Пропустить / Skip()
+### Пропустить / Skip()
     
-###Прочитать / Read()
+### Прочитать / Read()
     
-###ПрочитатьАтрибут / ReadAttribute()
+### ПрочитатьАтрибут / ReadAttribute()
     
-###СледующееОбъявление / NextDeclaration()
+### СледующееОбъявление / NextDeclaration()
     
-###СледующийАтрибут / NextAttribute()
+### СледующийАтрибут / NextAttribute()
     
-###ТипАтрибута / AttributeType()
+### ТипАтрибута / AttributeType()
     
-###Закрыть / Close()
+### Закрыть / Close()
     
-###ПерейтиКСодержимому / MoveToContent()
+### ПерейтиКСодержимому / MoveToContent()
     
-##Конструкторы
+## Конструкторы
 
   
-###По умолчанию
+### По умолчанию

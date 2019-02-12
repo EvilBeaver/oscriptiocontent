@@ -1,55 +1,55 @@
 
-#ЗаписьXML / XMLWriter
+# ЗаписьXML / XMLWriter
 
-##Свойства
+## Свойства
     
-###Отступ / Indent
+### Отступ / Indent
 Доступ: Чтение/Запись
-###КонтекстПространствИмен / NamespaceContext
+### КонтекстПространствИмен / NamespaceContext
 Доступ: Чтение
-###Параметры / Settings
+### Параметры / Settings
 Доступ: Чтение
-##Методы
+## Методы
     
-###ЗаписатьАтрибут / WriteAttribute()
+### ЗаписатьАтрибут / WriteAttribute()
     
-###ЗаписатьБезОбработки / WriteRaw()
+### ЗаписатьБезОбработки / WriteRaw()
     
-###ЗаписатьИнструкциюОбработки / WriteProcessingInstruction()
+### ЗаписатьИнструкциюОбработки / WriteProcessingInstruction()
     
-###ЗаписатьКомментарий / WriteComment()
+### ЗаписатьКомментарий / WriteComment()
     
-###ЗаписатьКонецАтрибута / WriteEndAttribute()
+### ЗаписатьКонецАтрибута / WriteEndAttribute()
     
-###ЗаписатьКонецЭлемента / WriteEndElement()
+### ЗаписатьКонецЭлемента / WriteEndElement()
     
-###ЗаписатьНачалоАтрибута / WriteStartAttribute()
+### ЗаписатьНачалоАтрибута / WriteStartAttribute()
     
-###ЗаписатьНачалоЭлемента / WriteStartElement()
+### ЗаписатьНачалоЭлемента / WriteStartElement()
     
-###ЗаписатьОбъявлениеXML / WriteXMLDeclaration()
+### ЗаписатьОбъявлениеXML / WriteXMLDeclaration()
     
-###ЗаписатьСекциюCDATA / WriteCDATASection()
+### ЗаписатьСекциюCDATA / WriteCDATASection()
     
-###ЗаписатьСоответствиеПространстваИмен / WriteNamespaceMapping()
+### ЗаписатьСоответствиеПространстваИмен / WriteNamespaceMapping()
     
-###ЗаписатьСсылкуНаСущность / WriteEntityReference()
+### ЗаписатьСсылкуНаСущность / WriteEntityReference()
     
-###ЗаписатьТекст / WriteText()
+### ЗаписатьТекст / WriteText()
     
-###ЗаписатьТекущий / WriteCurrent()
+### ЗаписатьТекущий / WriteCurrent()
     
-###ЗаписатьТипДокумента / WriteDocumentType()
+### ЗаписатьТипДокумента / WriteDocumentType()
     
-###НайтиПрефикс / LookupPrefix()
+### НайтиПрефикс / LookupPrefix()
     
-###Закрыть / Close()
+### Закрыть / Close()
     
-###ОткрытьФайл / OpenFile()
+### ОткрытьФайл / OpenFile()
     
-###УстановитьСтроку / SetString()
+### УстановитьСтроку / SetString()
     
-##Конструкторы
+## Конструкторы
 
   
-###По умолчанию
+### По умолчанию

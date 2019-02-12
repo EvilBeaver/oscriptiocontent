@@ -1,21 +1,21 @@
 
-#КонтекстПространствИменXML / XMLNamespaceContext
+# КонтекстПространствИменXML / XMLNamespaceContext
 
-##Свойства
+## Свойства
     
-###Глубина / Depth
+### Глубина / Depth
 Доступ: Чтение
-###ПространствоИменПоУмолчанию / DefaultNamespace
+### ПространствоИменПоУмолчанию / DefaultNamespace
 Доступ: Чтение
-##Методы
+## Методы
     
-###URIПространствИмен / NamespaceURIs()
+### URIПространствИмен / NamespaceURIs()
     
-###НайтиURIПространстваИмен / LookupNamespaceURI()
+### НайтиURIПространстваИмен / LookupNamespaceURI()
     
-###НайтиПрефикс / LookupPrefix()
+### НайтиПрефикс / LookupPrefix()
     
-###Префиксы / Prefixes()
+### Префиксы / Prefixes()
     
-###СоответствияПространствИмен / NamespaceMappings()
+### СоответствияПространствИмен / NamespaceMappings()
     

@@ -1,5 +1,5 @@
 
-#SafeArrayWrapper / SafeArrayWrapper
+# SafeArrayWrapper / SafeArrayWrapper
 
     
     
@@ -9,13 +9,13 @@
 
   
   
-##Методы
+## Методы
     
-###Количество / Count()
+### Количество / Count()
     
-###GetValue / GetValue()
+### GetValue / GetValue()
     
-###SetValue / SetValue()
+### SetValue / SetValue()
     
-###Выгрузить / Unload()
+### Выгрузить / Unload()
     

@@ -1,8 +1,8 @@
 
-#Функции работы с XML
-##Методы
+# Функции работы с XML
+## Методы
     
-###XMLСтрока / XMLString()
+### XMLСтрока / XMLString()
     
-###XMLЗначение / XMLValue()
+### XMLЗначение / XMLValue()
     
