@@ -60,7 +60,7 @@
             <p>Инфраструктура проекта использует арендованный сервер, который требует оплаты.</p>
             <p>Вы можете поддержать проект, перечислив любую удобную сумму, которая пойдет на оплату сервера и поддержку инфраструктуры.</p>
             <div id="donate">
-                <iframe frameborder="0" allowtransparency="true" scrolling="no" src="https://money.yandex.ru/embed/donate.xml?account=410013915014133&quickpay=donate&payment-type-choice=on&mobile-payment-type-choice=on&default-sum=&targets=%D0%94%D0%BE%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%D0%B8%D0%BC%D1%8F+%D0%B8+%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3+OneScript&project-name=OneScript&project-site=http%3A%2F%2Foscript.io&button-text=05&successURL=" width="508" height="91"></iframe>
+                <iframe src="https://money.yandex.ru/quickpay/shop-widget?writer=seller&targets=%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%201Script&targets-hint=&default-sum=300&button-text=13&payment-type-choice=on&hint=&successURL=&quickpay=shop&account=410013915014133" width="423" height="222" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
             </div> 
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 				<input type="hidden" name="cmd" value="_s-xclick">
